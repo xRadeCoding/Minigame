@@ -66,12 +66,12 @@ body {
   background-color: #222;
 }
 #retry2:hover > p{
-  color: #2ecc71;
+  color: #e20101;
   cursor: pointer;
   cursor: hand;
 }
 #retry:hover{
-    color: #2ecc71;
+    color: #e20101;
   cursor: pointer;
   cursor: hand;
 }
